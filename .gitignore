@@ -1,0 +1,20 @@
+# Visual Studio /.NET
+.vs/
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+*.user
+*.suo
+*.cache
+*.log
+ECHO is on.
+# NuGet: ignore any 'packages' folder at any depth
+**/packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+ECHO is on.
+# Build outputs
+*.dll
+*.pdb

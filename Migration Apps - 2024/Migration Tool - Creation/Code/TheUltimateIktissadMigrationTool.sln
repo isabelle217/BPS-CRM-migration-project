@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheUltimateIktissadMigrationTool", "TheUltimateIktissadMigrationTool\TheUltimateIktissadMigrationTool.csproj", "{F826CBAF-4498-49B4-B79A-3381F2F15F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNMigration", "FixTotals\NNMigration.csproj", "{3665E1BF-515B-4C0C-85FC-A40EB7978EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchInvixiumTransactionLog", "SynchInvixiumTransactionLog\SynchInvixiumTransactionLog.csproj", "{1BC3E746-4B96-4D91-BE84-ACCA77E8CF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F826CBAF-4498-49B4-B79A-3381F2F15F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F826CBAF-4498-49B4-B79A-3381F2F15F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F826CBAF-4498-49B4-B79A-3381F2F15F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F826CBAF-4498-49B4-B79A-3381F2F15F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3665E1BF-515B-4C0C-85FC-A40EB7978EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3665E1BF-515B-4C0C-85FC-A40EB7978EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3665E1BF-515B-4C0C-85FC-A40EB7978EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3665E1BF-515B-4C0C-85FC-A40EB7978EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC3E746-4B96-4D91-BE84-ACCA77E8CF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC3E746-4B96-4D91-BE84-ACCA77E8CF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC3E746-4B96-4D91-BE84-ACCA77E8CF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC3E746-4B96-4D91-BE84-ACCA77E8CF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

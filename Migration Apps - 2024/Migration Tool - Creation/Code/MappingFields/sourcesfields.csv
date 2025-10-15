@@ -1,0 +1,9 @@
+type,sourcename,targetname,targetentitytype
+,new_sourcelookupid,new_sourcelookupid,
+,new_deletesource,new_deletesource,
+,new_sourcefromcontact,new_sourcefromcontact,
+,new_accountid,new_accountid,
+,new_contactid,new_contactid,
+,new_name,new_name,
+,new_competitorexhibition,new_competitorexhibition,
+,new_type,new_type,

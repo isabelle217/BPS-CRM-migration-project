@@ -1,0 +1,7 @@
+type,sourcename,targetname,targetentitytype
+,new_name,new_name,
+,new_countryarabic,new_countryarabic,
+,new_countrycode,new_countrycode,
+,new_tax,new_tax,
+,new_regional,new_regional,
+,new_international,new_international,

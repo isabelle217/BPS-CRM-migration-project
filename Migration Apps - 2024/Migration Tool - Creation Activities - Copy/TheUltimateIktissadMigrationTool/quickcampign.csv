@@ -1,0 +1,8 @@
+type,sourcename,targetname,targetentitytype
+,subject,subject,
+,successcount,successcount,
+,failurecount,failurecount,
+,description,description,
+,targetedrecordtypecode,targetedrecordtypecode,
+,createdrecordtypecode,createdrecordtypecode,
+,statuscode,statuscode,
